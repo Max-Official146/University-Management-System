@@ -1,6 +1,0 @@
-Making app for ipad to work properly and integrated files my notes store in pdf form into it and auto update when i write also in pdf
-Features:
-1. Apple pencils 
-2. Fonts for pencil (free)
-and on and on with a notion integrated within it to maintain it
-Hi
